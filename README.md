@@ -9,7 +9,7 @@ Date : 02/12/2025
 - Développeur créa : Tyrone 
 - Hébergeur : David 
 
-## 🎨 Classes CSS à utiliser 
+##  Classes CSS à utiliser 
 - `site-header`
 - `hero`
 - `photo-card`
